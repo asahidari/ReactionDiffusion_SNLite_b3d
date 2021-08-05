@@ -41,6 +41,7 @@ This project idea is originated from [@zeffi's gist](https://gist.github.com/zef
 - Modify "load_library" arguments in the script to load your library (if you use "with C code" script).
 - Put the the text buffer name to the node and click the right button.
 
+![Image of Reaction Diffusion with SNLite](./images/reaction_diffusion_with_snlite_b3d_screen_shot.png)
 ## Requirements
 * Blender 2.8 (or later)
 * sverchok add-on 0.6 (or later)
